@@ -8,6 +8,7 @@ Striver's SDE Sheet
 | ------- |
 | [0053-maximum-subarray](https://github.com/harshulmalhotra18/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/harshulmalhotra18/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/harshulmalhotra18/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/harshulmalhotra18/LeetCode/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
@@ -26,4 +27,12 @@ Striver's SDE Sheet
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/harshulmalhotra18/LeetCode/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/harshulmalhotra18/LeetCode/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/harshulmalhotra18/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
