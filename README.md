@@ -45,8 +45,13 @@ Striver's SDE Sheet
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/harshulmalhotra18/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/harshulmalhotra18/LeetCode/tree/master/0050-powx-n) |
 ## Binary Search
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/harshulmalhotra18/LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/harshulmalhotra18/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
