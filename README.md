@@ -13,6 +13,7 @@ Striver's SDE Sheet
 | [0074-search-a-2d-matrix](https://github.com/harshulmalhotra18/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/harshulmalhotra18/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/harshulmalhotra18/LeetCode/tree/master/0118-pascals-triangle) |
+| [0287-find-the-duplicate-number](https://github.com/harshulmalhotra18/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ Striver's SDE Sheet
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/harshulmalhotra18/LeetCode/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/harshulmalhotra18/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -50,8 +52,13 @@ Striver's SDE Sheet
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/harshulmalhotra18/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0287-find-the-duplicate-number](https://github.com/harshulmalhotra18/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/harshulmalhotra18/LeetCode/tree/master/0050-powx-n) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/harshulmalhotra18/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
