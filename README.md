@@ -10,6 +10,7 @@ Striver's SDE Sheet
 | [0053-maximum-subarray](https://github.com/harshulmalhotra18/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/harshulmalhotra18/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/harshulmalhotra18/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/harshulmalhotra18/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/harshulmalhotra18/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/harshulmalhotra18/LeetCode/tree/master/0118-pascals-triangle) |
 ## Hash Table
@@ -21,6 +22,7 @@ Striver's SDE Sheet
 | ------- |
 | [0048-rotate-image](https://github.com/harshulmalhotra18/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/harshulmalhotra18/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/harshulmalhotra18/LeetCode/tree/master/0074-search-a-2d-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,4 +45,8 @@ Striver's SDE Sheet
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/harshulmalhotra18/LeetCode/tree/master/0048-rotate-image) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/harshulmalhotra18/LeetCode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
