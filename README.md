@@ -6,6 +6,7 @@ Striver's SDE Sheet
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harshulmalhotra18/LeetCode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/harshulmalhotra18/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/harshulmalhotra18/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/harshulmalhotra18/LeetCode/tree/master/0056-merge-intervals) |
@@ -18,6 +19,7 @@ Striver's SDE Sheet
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harshulmalhotra18/LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/harshulmalhotra18/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/harshulmalhotra18/LeetCode/tree/master/0169-majority-element) |
 ## Matrix
