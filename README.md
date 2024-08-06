@@ -13,6 +13,7 @@ Striver's SDE Sheet
 | [0073-set-matrix-zeroes](https://github.com/harshulmalhotra18/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/harshulmalhotra18/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/harshulmalhotra18/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/harshulmalhotra18/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/harshulmalhotra18/LeetCode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/harshulmalhotra18/LeetCode/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/harshulmalhotra18/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -42,12 +43,14 @@ Striver's SDE Sheet
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/harshulmalhotra18/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/harshulmalhotra18/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/harshulmalhotra18/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/harshulmalhotra18/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/harshulmalhotra18/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/harshulmalhotra18/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/harshulmalhotra18/LeetCode/tree/master/0169-majority-element) |
 ## Math
 |  |
