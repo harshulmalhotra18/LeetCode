@@ -7,6 +7,7 @@ Striver's SDE Sheet
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshulmalhotra18/LeetCode/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/harshulmalhotra18/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/harshulmalhotra18/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/harshulmalhotra18/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/harshulmalhotra18/LeetCode/tree/master/0056-merge-intervals) |
@@ -60,6 +61,7 @@ Striver's SDE Sheet
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/harshulmalhotra18/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/harshulmalhotra18/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/harshulmalhotra18/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
