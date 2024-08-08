@@ -18,6 +18,7 @@ Striver's SDE Sheet
 | [0118-pascals-triangle](https://github.com/harshulmalhotra18/LeetCode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/harshulmalhotra18/LeetCode/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/harshulmalhotra18/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/harshulmalhotra18/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ Striver's SDE Sheet
 | [0033-search-in-rotated-sorted-array](https://github.com/harshulmalhotra18/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/harshulmalhotra18/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/harshulmalhotra18/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/harshulmalhotra18/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Recursion
 |  |
 | ------- |
